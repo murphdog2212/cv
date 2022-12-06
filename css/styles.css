@@ -1,0 +1,24 @@
+/* ----- Global CSS ----- */
+
+body {
+    background-color: #CFF5E7;
+}
+
+h1 {
+    color: #0D4C92;
+}
+
+h3 {
+    color: #59C1BD;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #0D4C92;
+    border-width: 5px;
+    width: 5%;
+}
+
+img {
+    height: 200px;
+}
