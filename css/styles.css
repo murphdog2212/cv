@@ -13,12 +13,16 @@ h3 {
 }
 
 hr {
-    border-style: dotted none none;
     border-color: #0D4C92;
+    border-style: dotted none none;
     border-width: 5px;
     width: 5%;
 }
 
 img {
     height: 200px;
+}
+
+.circular {
+    border-radius: 100%;
 }
